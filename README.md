@@ -86,7 +86,8 @@ def print_status(self):
 ```
 
 ## Output
-![Uploading 306896439-0f635fa0-c670-42c7-a3dc-b1bc292ac788.png…]()
+![306896439-0f635fa0-c670-42c7-a3dc-b1bc292ac788](https://github.com/Thirukaalathessvarar-S/19AI405ExpNo1/assets/121166390/910e544c-1710-4690-b570-c874236a016c)
+
 
 
 ## Result 
